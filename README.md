@@ -1,2 +1,1 @@
-# JDBC-Connect
- JDBC-Connect
+# JDBC
